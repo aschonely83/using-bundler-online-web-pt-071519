@@ -1,6 +1,6 @@
 source "http://rubygems.org"
 
-gem 'rspec-expectations', '~> 3.8', '>= 3.8.4'
+gem "rspec"
 gem "sinatra"
 
 group :development do 
